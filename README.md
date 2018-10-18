@@ -1,10 +1,10 @@
-# Automation for Citrix Cloud on HPE SimpliVity (Hyper-V)
+# Automation for HPE SimpliVity and Citrix Cloud (Hyper-V)
 
-HPE SimpliVity plugin for Citrix Cloud is an automated tool to install or uninstall citrix cloud connector of a resource location on SimpliVity Hyper-V server.
+Automation for HPE SimpliVity and Citrix Cloud (Hyper-V) plugin installs or uninstalls Citrix Cloud Connector of a resource location on SimpliVity Hyper-V server.
 
 ## Release Notes
 
-This is the first version of HPE SimpliVity plugin for Citrix Cloud which installs and configures Citrix Cloud connector. Major aspects of this plugin that are covered in this release are:
+This is the first version of HPE SimpliVity plugin for Citrix Cloud which installs and configures Citrix Cloud Connector. Major aspects of this plugin that are covered in this release are:
 
 - Proxy implementation is a preview feature (beta) in version 1.0
 - Secure SSL/HTTPS enabled on SimpliVity OmniCube controller (OVC) IP address to connect using REST APIs
